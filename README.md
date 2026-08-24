@@ -38,28 +38,98 @@ I’m constantly experimenting, building, breaking, and learning.
 ### Tech Stack & Tools
 
 #### Languages
-`Python` • `Java` • `Kotlin` • `JavaScript` • `Dart` • `Rust` • `PHP` • `SQL` • `C/C++`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br />
 
 #### Web Development
-`React` • `HTML` • `CSS` • `Tailwind CSS` • `Vite` • `PHP` • `Flask` • `Django` • `Spring Boot`
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+<br />
 
 #### Mobile App Development
-`Flutter` • `Dart` • `Java` • `Kotlin` • `Android Development`
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+<br />
 
 #### AI, Machine Learning & Computer Vision
-`PyTorch` • `ONNX` • `Ollama` • `Computer Vision` • `Visual Odometry` • `SLAM` • `OpenVINS` • `YOLO` • `MobileNet`
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-Algorithm-5C3EE8?style=for-the-badge)
+![Visual Odometry](https://img.shields.io/badge/Visual_Odometry-Navigation-2563EB?style=for-the-badge)
+![SLAM](https://img.shields.io/badge/SLAM-Autonomous_Mapping-1E40AF?style=for-the-badge)
+![OpenVINS](https://img.shields.io/badge/OpenVINS-State_Estimation-0F172A?style=for-the-badge)
+
+<br />
 
 #### Robotics, Embedded & IoT
-`ROS 2` • `Raspberry Pi` • `ESP32` • `PX4` • `ArduPilot` • `Gazebo` • `RViz` • `MAVLink` • `Sensors & Embedded Systems`
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![PX4 Autopilot](https://img.shields.io/badge/PX4_Autopilot-000000?style=for-the-badge&logo=px4&logoColor=white)
+![ArduPilot](https://img.shields.io/badge/ArduPilot-DF1C2B?style=for-the-badge&logo=ardupilot&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-2B2D42?style=for-the-badge)
+![RViz](https://img.shields.io/badge/RViz-1E293B?style=for-the-badge)
+![MAVLink](https://img.shields.io/badge/MAVLink-Telemetry_Protocol-10B981?style=for-the-badge)
+
+<br />
 
 #### Databases & Backend
-`MySQL` • `SQLite` • `REST APIs` • `Spring Boot` • `Flask` • `Django` • `Maven`
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-Backend_Architecture-0284C7?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+
+<br />
 
 #### Cloud, DevOps & Development Tools
-`Git` • `GitHub` • `Docker` • `Linux` • `VS Code` • `Postman` • `Ngrok` • `Cloudflare Tunnel` • `AWS EC2` • `Amazon S3`
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Tunnel-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Ngrok](https://img.shields.io/badge/Ngrok-1F1E24?style=for-the-badge&logo=ngrok&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<br />
 
 #### Hardware & Edge Computing
-`Raspberry Pi 5` • `Raspberry Pi 4` • `NVIDIA GPU` • `Hailo AI Accelerators` • `Cameras` • `IMU Sensors` • `Drones`
+![Raspberry Pi 5](https://img.shields.io/badge/Raspberry_Pi_5-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Raspberry Pi 4](https://img.shields.io/badge/Raspberry_Pi_4-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![NVIDIA GPU](https://img.shields.io/badge/NVIDIA_GPU-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Hailo AI](https://img.shields.io/badge/Hailo_AI_Accelerators-Edge_AI-0052CC?style=for-the-badge)
+![Cameras & Vision](https://img.shields.io/badge/Cameras_%26_Vision_Sensors-000000?style=for-the-badge)
+![IMU Sensors](https://img.shields.io/badge/IMU_%26_Telemetry_Sensors-0EA5E9?style=for-the-badge)
+![Autonomous Drones](https://img.shields.io/badge/Autonomous_Drones-Robotics-111827?style=for-the-badge)
 
 ---
 

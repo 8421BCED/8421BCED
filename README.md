@@ -41,6 +41,23 @@ I’m constantly experimenting, building, breaking, and learning.
 
 ---
 
+### Highlights & Memories
+
+<div align="center">
+  <img src="assets/winner_dubai.jpeg" width="49%" alt="1st Place Winner — Canadian University Dubai Sustainability Competition" style="border-radius: 10px; border: 1px solid #30363d; vertical-align: middle; margin-right: 1%;" />
+  <img src="assets/drone_team.png" width="49%" alt="ISRO IROC-U Autonomous Drone Robotics Team" style="border-radius: 10px; border: 1px solid #30363d; vertical-align: middle;" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="assets/winner_cse_sympo.jpeg" width="32%" alt="CSE Symposium Award Winner" style="border-radius: 10px; border: 1px solid #30363d; vertical-align: middle; margin-right: 1%;" />
+  <img src="assets/ai_detection.jpeg" width="32%" alt="Computer Vision Real-Time Detection System" style="border-radius: 10px; border: 1px solid #30363d; vertical-align: middle; margin-right: 1%;" />
+  <img src="assets/team_memory.jpeg" width="32%" alt="Robotics & Engineering Development" style="border-radius: 10px; border: 1px solid #30363d; vertical-align: middle;" />
+</div>
+
+---
+
 ### Tech Stack & Tools
 
 #### Languages

@@ -1,13 +1,14 @@
-<div align="left">
-  <img src="assets/daniel_ascii.png" align="left" width="160" alt="Daniel" style="margin-right: 20px; border-radius: 10px;" />
-  <h1>Hi there, I'm Daniel 👋</h1>
-  <p><em>Welcome to my GitHub profile!</em></p>
-  <p>
-    🚀 Passionate Developer | 🛠️ Building Cool Projects | 💡 Problem Solver
-  </p>
-</div>
+# Hi there, I'm Daniel 👋
 
-<br clear="left" />
+> *Welcome to my GitHub profile!* 🚀 Passionate Developer | 🛠️ Building Cool Projects | 💡 Problem Solver
+
+<br />
+
+<p align="left">
+  <img src="assets/daniel_ascii.png" width="160" alt="Daniel ASCII" style="border-radius: 10px; vertical-align: middle; margin-right: 12px;" />
+  <img src="assets/ironman.gif" width="380" alt="Iron Man GIF" style="border-radius: 10px; vertical-align: middle;" />
+</p>
+
 <br />
 
 ---

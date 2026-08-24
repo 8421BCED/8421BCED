@@ -5,8 +5,8 @@
 <br />
 
 <p align="left">
-  <img src="assets/daniel_ascii.png" width="160" alt="Daniel ASCII" style="border-radius: 10px; vertical-align: middle; margin-right: 12px;" />
-  <img src="assets/ironman.gif" width="380" alt="Iron Man GIF" style="border-radius: 10px; vertical-align: middle;" />
+  <img src="assets/daniel_ascii.png" height="220" alt="Daniel ASCII" style="border-radius: 10px; vertical-align: middle; margin-right: 12px;" />
+  <img src="assets/war_shockwave.gif" height="220" alt="War Shockwave GIF" style="border-radius: 10px; vertical-align: middle;" />
 </p>
 
 <br />

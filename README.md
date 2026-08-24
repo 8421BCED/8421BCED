@@ -1,6 +1,6 @@
-# Hi there, I'm Daniel
+# Hi there, I'm Daniel { Just  a Tech }
 
-> *B.Tech Information Technology Student | Intelligent Systems, AI/ML, Robotics & Hardware Engineer ( Just A Tech )*
+> *B.Tech Information Technology Student | Intelligent Systems, AI/ML, Robotics & Hardware Engineer*
 
 <br />
 

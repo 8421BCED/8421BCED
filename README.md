@@ -4,10 +4,10 @@
 
 <br />
 
-<p align="left">
-  <img src="assets/daniel_ascii.png" height="220" alt="Daniel ASCII" style="border-radius: 10px; vertical-align: middle; margin-right: 12px;" />
-  <img src="assets/war_shockwave.gif" height="220" alt="War Shockwave GIF" style="border-radius: 10px; vertical-align: middle;" />
-</p>
+<div align="center">
+  <img src="assets/daniel_ascii.png" width="26%" alt="Daniel ASCII" style="border-radius: 12px; vertical-align: middle; margin-right: 1%;" />
+  <img src="assets/war_shockwave.gif" width="71%" alt="War Shockwave GIF" style="border-radius: 12px; vertical-align: middle;" />
+</div>
 
 <br />
 

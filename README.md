@@ -35,20 +35,31 @@ I’m constantly experimenting, building, breaking, and learning.
 
 ---
 
-### Tech Stack & Core Competencies
+### Tech Stack & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+#### Languages
+`Python` • `Java` • `Kotlin` • `JavaScript` • `Dart` • `Rust` • `PHP` • `SQL` • `C/C++`
+
+#### Web Development
+`React` • `HTML` • `CSS` • `Tailwind CSS` • `Vite` • `PHP` • `Flask` • `Django` • `Spring Boot`
+
+#### Mobile App Development
+`Flutter` • `Dart` • `Java` • `Kotlin` • `Android Development`
+
+#### AI, Machine Learning & Computer Vision
+`PyTorch` • `ONNX` • `Ollama` • `Computer Vision` • `Visual Odometry` • `SLAM` • `OpenVINS` • `YOLO` • `MobileNet`
+
+#### Robotics, Embedded & IoT
+`ROS 2` • `Raspberry Pi` • `ESP32` • `PX4` • `ArduPilot` • `Gazebo` • `RViz` • `MAVLink` • `Sensors & Embedded Systems`
+
+#### Databases & Backend
+`MySQL` • `SQLite` • `REST APIs` • `Spring Boot` • `Flask` • `Django` • `Maven`
+
+#### Cloud, DevOps & Development Tools
+`Git` • `GitHub` • `Docker` • `Linux` • `VS Code` • `Postman` • `Ngrok` • `Cloudflare Tunnel` • `AWS EC2` • `Amazon S3`
+
+#### Hardware & Edge Computing
+`Raspberry Pi 5` • `Raspberry Pi 4` • `NVIDIA GPU` • `Hailo AI Accelerators` • `Cameras` • `IMU Sensors` • `Drones`
 
 ---
 

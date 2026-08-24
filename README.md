@@ -136,13 +136,12 @@ I’m constantly experimenting, building, breaking, and learning.
 ### Real-Time GitHub Analytics & Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=8421BCED&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=8421BCED&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=8421BCED&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=8421BCED&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8421BCED&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=8421BCED&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=8421BCED&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="99%" />
 </div>

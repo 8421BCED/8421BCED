@@ -1,6 +1,6 @@
 # Hi there, I'm Daniel
 
-> *B.Tech Information Technology Student | Intelligent Systems, AI/ML, Robotics & Hardware Engineer*
+> *B.Tech Information Technology Student | Intelligent Systems, AI/ML, Robotics & Hardware Engineer ( Just A Tech )*
 
 <br />
 
@@ -25,13 +25,19 @@ I’m constantly experimenting, building, breaking, and learning.
 
 ---
 
-### Key Achievements & Recognition
+### Key Achievements & Major Projects
 
-- **Winner — Canadian University Dubai Sustainability Competition**  
-  Awarded 1st place for designing and implementing an innovative technology solution focused on sustainability, integrating intelligent software, real-time telemetry, and smart hardware design.
+- **1st Place — AI for Sustainability Hackathon 2026** *(Canadian University Dubai)*  
+  Won 1st place in the Sustainable Development Goals (SDG / Life Below Water) category for developing *Planktoreal*—an AI-driven bio-sensing and marine plankton monitoring system.
 
-- **Finalist — ISRO Robotics Challenge (IRoC / IROCU 2026)**  
-  Recognized as a finalist in the prestigious Indian Space Research Organisation (ISRO) Robotics Challenge 2026 for engineering autonomous robotic systems, motion control, and embedded computer vision modules.
+- **Selected Finalist — ISRO IROC-U 2026 Autonomous Drone Challenge**  
+  Selected for the prestigious Indian Space Research Organisation (ISRO) robotics challenge for engineering autonomous aerial drone systems with VIO/SLAM, ROS 2, PX4/ArduPilot, and Raspberry Pi edge computing.
+
+- **Autonomous Systems & Embedded Robotics Engineering**  
+  Engineered hardware-software systems integrating Visual Inertial Odometry (VIO), SLAM, OpenCV computer vision, MAVLink telemetry, and custom flight controller integration.
+
+- **Real-World Software & System Architecture**  
+  Architected and built full-stack applications and edge systems including *Why Not*, *Preserva*, *Planktoreal*, *Project Helios*, and multi-platform Web/Mobile/IoT platforms.
 
 ---
 

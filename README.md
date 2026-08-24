@@ -1,6 +1,6 @@
-# Hi there, I'm Daniel 👋
+# Hi there, I'm Daniel
 
-> *Welcome to my GitHub profile!* 🚀 Passionate Developer | 🛠️ Building Cool Projects | 💡 Problem Solver
+> *B.Tech Information Technology Student | Intelligent Systems, AI/ML, Robotics & Hardware Engineer*
 
 <br />
 
@@ -13,27 +13,46 @@
 
 ---
 
-### 💫 About Me
+### About Me
 
-- 🔭 I’m currently working on exciting software development projects.
-- 🌱 I’m constantly learning and building modern applications.
-- 💬 Ask me about **Software Engineering, Web Development, Linux & Git**.
-- ⚡ Fun fact: I love clean code and creative designs!
+I'm a B.Tech Information Technology student and technology enthusiast passionate about building intelligent systems that connect **software, AI/ML, robotics, IoT, computer vision, and hardware**.
+
+I enjoy exploring how things work—from web and mobile applications to embedded systems, Raspberry Pi, autonomous drones, computer vision, and edge intelligence. I’m particularly interested in building practical systems where software and hardware work together to solve real-world problems.
+
+My work and learning journey includes **Python, Flutter, React, Flask, Django, Spring Boot, ROS 2, computer vision, machine learning, ONNX, Raspberry Pi, ESP32, and IoT systems**.
+
+I’m constantly experimenting, building, breaking, and learning.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Key Achievements & Recognition
+
+- **Winner — Canadian University Dubai Sustainability Competition**  
+  Awarded 1st place for designing and implementing an innovative technology solution focused on sustainability, integrating intelligent software, real-time telemetry, and smart hardware design.
+
+- **Finalist — ISRO Robotics Challenge (IRoC / IROCU 2026)**  
+  Recognized as a finalist in the prestigious Indian Space Research Organisation (ISRO) Robotics Challenge 2026 for engineering autonomous robotic systems, motion control, and embedded computer vision modules.
+
+---
+
+### Tech Stack & Core Competencies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=8421BCED&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" width="48%" />

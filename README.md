@@ -136,8 +136,8 @@ I’m constantly experimenting, building, breaking, and learning.
 ### Real-Time GitHub Analytics & Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=8421BCED&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=8421BCED&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=8421BCED&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=8421BCED&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="49%" />
 </div>
 
 <br />

@@ -139,6 +139,15 @@ I’m constantly experimenting, building, breaking, and learning.
 
 ---
 
+### Connect & Contact
+
+[![Email](https://img.shields.io/badge/Email-0danielraj0%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0danielraj0@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91%208072329996-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918072329996)
+[![Mobile](https://img.shields.io/badge/Mobile-%2B91%208072329996-0078D4?style=for-the-badge&logo=android&logoColor=white)](tel:+918072329996)
+[![GitHub](https://img.shields.io/badge/GitHub-8421BCED-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/8421BCED)
+
+---
+
 ### Activity Graph
 
 <div align="center">
